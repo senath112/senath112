@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**senath112/senath112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**senath112/senath112**  about me
 
 - 🔭 I’m currently working on an Open Weather project...
 - 🌱 I’m currently learning Python...
