@@ -1,5 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 ### Hi there 👋
+[![Senath's GitHub stats](https://github-readme-stats.vercel.app/api?username=senath112)](https://github.com/senath112)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senath112)](https://github.com/senath112)
 
 
