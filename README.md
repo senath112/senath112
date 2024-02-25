@@ -7,7 +7,7 @@
 **senath112/senath112**  about me
 
 - 🔭 I’m currently working on an Open Weather project...
-- 🌱 I’m currently learning Fighting to save Corals 🪸
+- 🌱 I’m currently Fighting to save Corals 🪸
 - 👯 I’m looking to collaborate on students who has passonate about technology
 - 🤔 I’m looking for help with AI model developers
 - 💬 Ask me anything about IoT and Programming
