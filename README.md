@@ -15,3 +15,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The language Python was not named after the snake ‘Python’...
 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=senath112)](https://git.io/streak-stats)
+
