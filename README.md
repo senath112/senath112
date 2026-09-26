@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Senath Sethmika
 
-/*IoT & Full-Stack Developer focused on building real-world systems that combine **hardware, software, and data**.
-![Star history](assets/star-chart.svg)*/
+##IoT & Full-Stack Developer focused on building real-world systems that combine **hardware, software, and data**.
+##![Star history](assets/star-chart.svg)
 
 ---
 
