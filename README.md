@@ -1,41 +1,49 @@
 # 👋 Hi, I'm Senath Sethmika
 
-<!--IoT & Full-Stack Developer focused on building real-world systems that combine **hardware, software, and data**.
-##![Star history](assets/star-chart.svg)-->
+<p>
+  IoT & Full-Stack Developer building practical systems that blend <b>hardware, software, and data</b>.
+</p>
+
+<p>
+  <a href="https://github.com/senath112">GitHub</a> •
+  <a href="https://www.linkedin.com/in/senath-sethmika/">LinkedIn</a>
+</p>
 
 ---
 
-## 🧠 What I Do
-- 🌿 IoT systems (ESP32, Arduino, sensors)
-- 💻 Full-stack web apps (React, Node.js)
-- 📊 Real-time dashboards & data systems
-- 🤖 AI & automation tools
-- ⚙️ Embedded + software integration
+## 🧠 What I Build
+
+- 🌿 IoT solutions with ESP32, Arduino, and sensors  
+- 💻 Modern full-stack web apps  
+- 📊 Real-time monitoring dashboards  
+- 🤖 Smart automation and AI-powered workflows  
+- ⚙️ Embedded + cloud-connected systems
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** JavaScript, Python, C/C++  
-**Frontend:** React, Next.js, Tailwind  
-**Backend:** Node.js, Express, Firebase, MongoDB  
-**IoT:** ESP32, Arduino, sensors
+
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, Python, C/C++ |
+| Frontend | React, Next.js, Tailwind CSS |
+| Backend | Node.js, Express, Firebase, MongoDB |
+| IoT | ESP32, Arduino, sensor integrations |
 
 ---
 
 ## 🚀 Current Focus
-Building end-to-end systems for:
-- IoT monitoring solutions
-- Web-based dashboards
-- Smart automation tools
+
+- End-to-end IoT monitoring platforms  
+- Data-driven web dashboards  
+- Real-world automation tools
 
 ---
 
 ## 🌍 Vision
-Creating practical tech systems that solve real-world problems through IoT + software integration.
+
+Build reliable technology that solves real-world problems through IoT + software integration.
 
 ---
 
-## 📫 Contact
-GitHub: ([Senath112)](https://github.com/senath112)
-
-LinkedIn: ([Senath Sethmika)](https://www.linkedin.com/in/senath-sethmika/)
+![GitHub activity](assets/star-chart.svg)
