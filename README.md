@@ -36,5 +36,6 @@ Creating practical tech systems that solve real-world problems through IoT + sof
 ---
 
 ## 📫 Contact
--GitHub: ([Senath112)](https://github.com/senath112)
--LinkedIn: ([Senath Sethmika)](https://www.linkedin.com/in/senath-sethmika/)
+GitHub: ([Senath112)](https://github.com/senath112)
+
+LinkedIn: ([Senath Sethmika)](https://www.linkedin.com/in/senath-sethmika/)
